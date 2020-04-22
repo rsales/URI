@@ -4,12 +4,8 @@ Leia quatro valores inteiros A, B, C e D. A seguir, calcule e mostre a diferenç
 
 ## Entrada
 
-------
-
 O arquivo de entrada contém 4 valores inteiros.
 
 ## Saída
-
-------
 
 Imprima a mensagem **DIFERENCA** com todas as letras maiúsculas, conforme exemplo abaixo, com um espaço em branco antes e depois da igualdade.

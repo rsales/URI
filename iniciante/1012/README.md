@@ -9,12 +9,8 @@ e) a área do retângulo que tem lados A e B.
 
 ## Entrada
 
-------
-
 O arquivo de entrada contém três valores com um dígito após o ponto decimal.
 
 ## Saída
-
-------
 
 O arquivo de saída deverá conter 5 linhas de dados. Cada linha corresponde a uma das áreas descritas acima, sempre com mensagem correspondente e um espaço entre os dois pontos e o valor. O valor calculado deve ser apresentado com 3 dígitos após o ponto decimal.

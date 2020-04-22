@@ -5,13 +5,9 @@ Leia 3 valores, no caso, variáveis A, B e C, que são as três notas de um alun
 
 ## Entrada
 
-------
-
 O arquivo de entrada contém 3 valores com uma casa decimal, de dupla precisão (double).
 
 
 ## Saída
-
-------
 
 Imprima a variável **MEDIA** conforme exemplo abaixo, com 1 dígito após o ponto decimal e com um espaço em branco antes e depois da igualdade. Assim como todos os problemas, não esqueça de imprimir o fim de linha após o resultado, caso contrário, você receberá "Presentation Error".

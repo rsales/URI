@@ -4,12 +4,8 @@ Leia dois valores inteiros. A seguir, calcule o produto entre estes dois valores
 
 ## Entrada
 
-------
-
 O arquivo de entrada contém 2 valores inteiros.
 
 ## Saída
-
-------
 
 Imprima a variável **PROD** conforme exemplo abaixo, com um espaço em branco antes e depois da igualdade. Não esqueça de imprimir o fim de linha após o produto, caso contrário seu programa apresentará a mensagem: *“Presentation Error”*.
