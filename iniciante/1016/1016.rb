@@ -1,7 +1,7 @@
 km = gets.to_i
-minutesOneHour = 60
-distanceOneHour = 30
+minutes_one_hour = 60
+distance_one_Hour = 30
 
-distance = (minutesOneHour * km) / distanceOneHour
+distance = (minutes_one_hour * km) / distance_one_Hour
 
 puts "#{'%.i minutos' % distance}"
